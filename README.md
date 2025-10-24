@@ -1,4 +1,4 @@
-##Hi, I'm Joyce
+## Hi, I'm Joyce
 
 Motivated and detail-oriented IT student specializing in Security and Network Engineering<br/>
 BSc in Information Technology at Eduvos in Cape Town<br/>
