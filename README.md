@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EC4B6&center=true&vCenter=true&width=600&lines=BSc+IT+Student+%40+Eduvos+Cape+Town;Cybersecurity+%26+Network+Engineering;Cloud+%26+Full-Stack+Development;Building+secure%2C+practical+IT+solutions)](https://git.io/typing-svg)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-2EC4B6?style=for-the-badge&logo=firefox&logoColor=white)](https://www.linkedin.com/in/joyce-coem-4a6680242/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2EC4B6?style=for-the-badge&logo=firefox&logoColor=white)](https://green-field-05b1f7610.7.azurestaticapps.net)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joyce-coem-4a6680242/)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@joycecoem05)
 [![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoyceCoem)
